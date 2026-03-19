@@ -1,0 +1,70 @@
+Notre objectif est de simuler des humains retrouvant l'équilibre
+après une interaction physique. Pour cela, nous apportons un nouveau
+modèle de controle qui est couplé à une stratégie d'équilibre adaptée.
+Une fois implémenté et ajusté, notre simulation nous permet de 
+reproduire des résultats similaires à des données experimentales.
+
+Après avoir introduit les enjeux et objetifs de notre travail, nous
+passerons d'abord en revu les différentes manières de simuler 
+l'équilibre humain et donc, intrinsèquement,  
+
+
+Bien pousser l'interet de la simulation 
+
+
+
+State of the art -> (Geistenbeek,Mordatch)
+
+Stratégie réponse/prédiction
+
+Approche basé sur des données -> la véritable plus value
+
+Stratégie d epied basé sur des observations
+
+Equilibre basé sur le state of the art
+
+Result doit justifier la méthode utilisée
+
+Questions dans la discussion
+
+
+-------
+
+
+Fixer la méthode
+
+Se placer par rapport au domaine
+
+------------------------
+
+Valider les equation de Th.
+
+Prendre les règles pour les valider
+
+Objectif->Methode->Resultats
+
+1. On retrouve l'équillibre
+
+2. On retrouve des bonnes valeurs
+
+On regarde si la position des pas 
+
+Simulé vs Reelles
+
+Minimisation des couples
+
+Antagonisme des couples comme la réalité ?
+
+leave one out
+
+Normaliser les données (masse) these floran
+
+Attention nom mahcine à état
+
+-------------------
+
+Opti choix : à fixer
+
+For effort minimization Eeffort(t), we use the current rate of
+metabolic expenditure [Wang et al. 2012].
+

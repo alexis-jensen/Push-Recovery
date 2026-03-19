@@ -1,0 +1,30 @@
+Motivation : How can we simulate a human-like push recovery ?
+Contribution : in three bullet points
+Method : in three bullet points
+Results plutot que teaser
+
+Ablations : Remove a component rename
+
+Title card pour expliquer
+
+Comparison with experimental data
+Expliquer la difference de motion (not the objective)
+disclaimer
+
+----------------------
+
+Image du push experiment dans la figure 1 (comparaison data)
+
+Pole to apply pressure (preciser l'amplitude)
+
+------------------------
+
+Conclusions ?
+
+Anonymiser
+
+Register le papier 
+
+
+
+

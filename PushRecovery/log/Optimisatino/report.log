@@ -1,0 +1,12 @@
+2023-03-27 12:49:31,970 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:49:58,225 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:50:43,344 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:51:21,028 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:51:49,418 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:53:19,265 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:56:09,840 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:56:46,517 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:57:38,019 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:57:57,744 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:58:25,615 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}
+2023-03-27 12:58:45,030 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.4, 'c2': 0.4, 'w': 0.9, 'max_velocity_rate': 10000000, 'adaptive': True}

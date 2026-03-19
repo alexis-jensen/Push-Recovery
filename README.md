@@ -3,8 +3,7 @@
 
 
 
-This code repo is to support the paper _**Physical Simulation of Balance Recovery after a Push
-**_.
+This code repo is to support the paper _**Physical Simulation of Balance Recovery after a Push**_.
 [[Paper Link](https://dl.acm.org/doi/10.1145/3623264.3624448)]
 [[Youtube](https://youtu.be/vbad-yy8gxs)]
 
